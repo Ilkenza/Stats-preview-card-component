@@ -1,0 +1,28 @@
+@media(max-width:1124px){
+    body .all-spc{
+        flex-direction: column;
+        max-width: 350px;
+    }
+    body .all-spc .spc{
+        max-width: 100%;
+        margin: 0px;
+        padding: 40px;
+        text-align: center;
+    }
+    body .all-spc .spc .spc-txt h1{
+        font-size: 27px;
+        max-width: 260px;
+        margin: 0px;
+    }
+    body .all-spc .spc .spc-txt p{
+        font-size: 15px;
+        max-width: 260px;
+        line-height: 25px;
+    }
+    body .all-spc .spc .spc-text{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+}
